@@ -314,3 +314,89 @@
 
 ---
 
+### **BOOK 1 COMPLETE STRUCTURE - Full Arc**
+
+**PART 1: SHADOWS OF HASTINAPUR** *(Backstory & Setup)*
+- Dhritarashtra, Pandu, Bheema - power tussle for throne
+- Dhritarashtra's ruthless cunning, plots against Pandu
+- **Pandu's murder** - Dhritarashtra's deception succeeds
+- **Infant Karna declared stillborn** - secretly saved by unknown savior
+- Pandu's remaining sons grow up in Hastinapur, deliberately sidelined
+- **Shakuni's parallel plots** - manipulating court, building Suyodhana's case
+
+**PART 2: THE GATHERING** *(Parshurama collects the four)*
+- Parshurama receives prophecy: Four will decide Bharata's fate, one is Vishnu
+- Takes **Arjuna** from Hastinapur
+- Finds **Karna** in nearby kingdom - "a kid who knew a lot"
+- **Panchali** arrives - last of Agneya tribe
+- **Krishna** comes to Gurukul
+
+**PART 3: THE GURUKUL** *(Bonds & Training)*
+- Four meet, initial tensions and friendships
+- **Love-hate between Arjuna & Karna** - competitive yet bonded
+- Training under Parshurama's egalitarian philosophy
+- Moments hinting at prophecy - which is Vishnu?
+- Krishna's ambiguous "miracles" vs. science
+- Draupadi's Agneya warrior heritage
+- Deep bonds form through training and competition
+
+**PART 4: BACK TO ORIGINS** *(Return & Changes)*
+- All four return to their respective homes/kingdoms
+- Each discovers changes that occurred during their absence
+- Reunion with family, politics, old conflicts
+- How has Hastinapur changed? How have their families changed?
+- Seeds of future conflicts planted
+
+**PART 5: DRONA'S GRADUATION ASHRAM** *(Advanced Training & Rejection)*
+- Elite ashram for advanced warrior training
+- Arjuna and others gain admission
+- **Drona rejects Karna** despite Parshurama's recommendation
+- Elitist vs. egalitarian philosophy conflict
+- Karna trains alone, isolated
+- **Suyodhana secretly shares Drona's lessons with Karna**
+- Suyodhana-Karna friendship deepens (crucial bond)
+- **Exhibition**: All brothers showcase their skills
+
+**PART 6: THE DRUPAD CONFLICT** *(Love, War, Betrayal, Exodus)*
+
+**The Battle:**
+- War/Battle with Drupad (context to be clarified)
+- **Arjuna faces Dharmasankat** (moral dilemma - nature to be defined)
+- **Panchali uses Karna to defend the kingdom** against royal attack
+- They successfully fend off the attack together
+
+**Forbidden Love:**
+- **Panchali confesses her love for Karna**
+- Royalty declines - Drupad/court rejects their union
+- **Karna banished by Drupad** - exiled from the kingdom
+
+**Opportunistic Attack:**
+- **Arjuna & Suyodhana** take advantage of situation
+- Attack and capture Drupad
+- **Drona humiliates them** for their dishonorable attack
+
+**Karna's Journey:**
+- **Assassination attempt** - Drupad's Senapati plots to kill banished Karna
+- **Krishna rescues Karna** - saves him from death
+- **Journey to Dwarka** - Karna and Krishna travel together, friendship deepens
+- **Karna meets his future wife** on the road (identity to be defined)
+- **Krishna reveals his love** - jokes that Karna must now find him a wife
+- Krishna names the princess he loves - **CLIFFHANGER**
+
+**CLIMAX/ENDING - The Conspiracy Revealed:**
+- **Secret plot by Shakuni & Dhritarashtra** against Bheeshma and PanduPutras
+- Sets up major conflict for Book 2
+- Raises stakes for all characters
+
+---
+
+**OPEN QUESTIONS FOR REFINEMENT:**
+
+1. **Drupad's role**: Is he Panchali's father? Why the battle/conflict with him?
+2. **Arjuna's Dharmasankat**: What specific moral dilemma does he face?
+3. **Karna's future wife**: Who is she? Where/how do they meet?
+4. **Krishna's princess**: Which princess does he love? (Rukmini? Other?)
+5. **The conspiracy details**: What exactly are Shakuni & Dhritarashtra plotting?
+
+---
+
