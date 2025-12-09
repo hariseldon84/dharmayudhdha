@@ -15,6 +15,25 @@ Note: Where exact verse/page links aren't provided, use the indicated section/pa
 
 ---
 
+## Chapter 1 — Ashes in Hastinapur
+
+- PS: BORI CE editorial baseline and apparatus (research #1–4); CE TOCs (research #162)
+  - Anchor: Editorial notes on court episodes and kingship paradoxes; apparatus variants on Yudhishthira's dilemmas.
+- TR: Ganguli Sabha Parva court episodes (research #223); Dutt court narratives (research #298)
+  - Anchor: Court scene descriptions; political tension and advisory dynamics.
+- IN: Hiltebeitel — Yudhishthira's kingship paradox (research #40)
+  - Anchor: Analytical frame for righteous rule vs practical governance.
+- AR: ASI Hastinapur excavation summary (research #34)
+  - Anchor: Archaeological context for palace descriptions and urban setting.
+- PH: Fitzgerald — Bhishma/Shanti Parva advisory framing (research #55)
+  - Anchor: Constitutional and advisory precedents.
+
+Quick synopsis cues:
+- Post-war aftermath and reconstruction themes; ash/renewal symbolism.
+- Yudhishthira's burden of righteous kingship; court dynamics and unease.
+
+---
+
 ## Chapter 2 — Kunti–Surya (The Stillborn Secret)
 
 - PS: CE Adi Parva apparatus (research #1–4); Adi Parva TOC keys (research #276)
@@ -37,6 +56,23 @@ Quick synopsis cues:
 
 ---
 
+## Chapter 3 — Bheeshma's Unyielding Oath
+
+- TR: Bhishma vows — Shanti/Adi Parva indices (research #227, #287)
+  - Anchor: Oath mechanics and constitutional implications; vow language variants.
+- IN: Bhishma's oath as statecraft (research #65); advisory ethics (research #213)
+  - Anchor: Political theory frame for oath-bound loyalty vs adaptive governance.
+- PH: CE apparatus — oath variants (research #1–4)
+  - Anchor: Textual variants on oath conditions and exceptions.
+- PU: Anushasana/Shanti dharma lists (research #149, #183)
+  - Anchor: Dharmic precedents for oaths and their limits.
+
+Quick synopsis cues:
+- Oath as both strength and constraint; constitutional crisis potential.
+- Bhishma's advisory role vs direct action limitations.
+
+---
+
 ## Chapter 4 — Shakuni's Dice (Sabha Parva)
 
 - TR: Dice game — Ganguli Sabha Parva anchor (research #223)
@@ -53,93 +89,6 @@ Quick synopsis cues:
 Quick synopsis cues:
 - Invitation → obligation → duress sequence; lawful vs unlawful loss contention.
 - Court complicity and silence; insert advisory echoes toward Ch.30.
-
----
-
-## Chapter 7 — Fire-Born Panchali (Draupadi's Birth)
-
-- TR: Draupadi birth — Adi Parva keys (research #222, #276)
-  - Anchor: Fire-sacrifice narrative; emergence imagery; name and epithet notes.
-- IN: Draupadi cult / Agneya identity (research #54, #211)
-  - Anchor: Agni associations; temple ritual parallels for iconography.
-- RG: Draupadi Amman temples (research #58)
-  - Anchor: Regional motifs to enrich ritual language and setting details.
-- PU: Nalayani/Indrasena prior-birth narratives (research #155)
-  - Anchor: Prior-life causality thread; use sparingly, annotate as ancillary.
-- PH: CE apparatus (research #1–4)
-  - Anchor: Variant phrases around fire rite and twin births (Dhrishtadyumna/Draupadi).
-
-Quick synopsis cues:
-- Vedic rite mechanics; covenantal framing of birth purpose.
-- Agneya traits foreshadowing Chapter 22 agency.
-
----
-
-## Chapter 18 — The Rejection of Karna
-
-- TR/PH: Karna Parva index (research #283); CE apparatus (research #1–4)
-  - Anchor: Public contest scene; caste inquiry; rejection line variants.
-- IN: Genealogy debates (research #56); suppression motifs (research #61)
-  - Anchor: Analytical frame for social exclusion vs merit ethos.
-- RG: Folk ballads (research #267)
-  - Anchor: Emotional tenor and public reaction cues.
-
-Quick synopsis cues:
-- Contest merit vs lineage barrier; humiliation beats; silent witnesses.
-- Seeds for later reconciliation arcs and ethical commentary.
-
----
-
-## Chapter 22 — Panchali's Stand
-
-- IN: Draupadi agency — cult and temples (research #54, #58, #211)
-  - Anchor: Voice, ritual authority, and moral claim language.
-- RG: Pandavani/Terukkuttu performance (research #267, #268)
-  - Anchor: Stance, gestures, chorus emphasis; pacing of objection and demand.
-- PR: Performance archives — SNA/IGNCA (research #126, #128)
-  - Anchor: Visual motifs; stagecraft references for scene setting.
-- PS/PH: CE apparatus for court legality challenge (research #1–4)
-  - Anchor: Textual locus of Draupadi's questions; variant readings.
-
-Quick synopsis cues:
-- Juridical challenge structure: question → premise → concession trap.
-- Convergence of ritual identity (Agneya) and legal argument.
-
----
-
-## Chapter 1 — Ashes in Hastinapur
-
-- PS: BORI CE editorial baseline and apparatus (research #1–4); CE TOCs (research #162)
-  - Anchor: Editorial notes on court episodes and kingship paradoxes; apparatus variants on Yudhishthira's dilemmas.
-- TR: Ganguli Sabha Parva court episodes (research #223); Dutt court narratives (research #298)
-  - Anchor: Court scene descriptions; political tension and advisory dynamics.
-- IN: Hiltebeitel — Yudhishthira's kingship paradox (research #40)
-  - Anchor: Analytical frame for righteous rule vs practical governance.
-- AR: ASI Hastinapur excavation summary (research #34)
-  - Anchor: Archaeological context for palace descriptions and urban setting.
-- PH: Fitzgerald — Bhishma/Shanti Parva advisory framing (research #55)
-  - Anchor: Constitutional and advisory precedents.
-
-Quick synopsis cues:
-- Post-war aftermath and reconstruction themes; ash/renewal symbolism.
-- Yudhishthira's burden of righteous kingship; court dynamics and unease.
-
----
-
-## Chapter 3 — Bheeshma's Unyielding Oath
-
-- TR: Bhishma vows — Shanti/Adi Parva indices (research #227, #287)
-  - Anchor: Oath mechanics and constitutional implications; vow language variants.
-- IN: Bhishma's oath as statecraft (research #65); advisory ethics (research #213)
-  - Anchor: Political theory frame for oath-bound loyalty vs adaptive governance.
-- PH: CE apparatus — oath variants (research #1–4)
-  - Anchor: Textual variants on oath conditions and exceptions.
-- PU: Anushasana/Shanti dharma lists (research #149, #183)
-  - Anchor: Dharmic precedents for oaths and their limits.
-
-Quick synopsis cues:
-- Oath as both strength and constraint; constitutional crisis potential.
-- Bhishma's advisory role vs direct action limitations.
 
 ---
 
@@ -172,6 +121,95 @@ Quick synopsis cues:
 Quick synopsis cues:
 - Precocious understanding of social dynamics; suppressed potential.
 - Generosity as compensation for exclusion; early ethical formation.
+
+---
+
+## Chapter 7 — Fire-Born Panchali (Draupadi's Birth)
+
+- TR: Draupadi birth — Adi Parva keys (research #222, #276)
+  - Anchor: Fire-sacrifice narrative; emergence imagery; name and epithet notes.
+- IN: Draupadi cult / Agneya identity (research #54, #211)
+  - Anchor: Agni associations; temple ritual parallels for iconography.
+- RG: Draupadi Amman temples (research #58)
+  - Anchor: Regional motifs to enrich ritual language and setting details.
+- PU: Nalayani/Indrasena prior-birth narratives (research #155)
+  - Anchor: Prior-life causality thread; use sparingly, annotate as ancillary.
+- PH: CE apparatus (research #1–4)
+  - Anchor: Variant phrases around fire rite and twin births (Dhrishtadyumna/Draupadi).
+
+Quick synopsis cues:
+- Vedic rite mechanics; covenantal framing of birth purpose.
+- Agneya traits foreshadowing Chapter 22 agency.
+
+---
+
+## Chapter 4 — Shakuni's Dice (Sabha Parva)
+
+- TR: Dice game — Ganguli Sabha Parva anchor (research #223)
+  - Anchor: First invitation, stakes escalation, disrobing scene setup; page markers for core exchanges.
+- PH: Sabha Parva deep-link (research #277)
+  - Anchor: Use parva index to jump between throws and court reactions.
+- IN: Shakuni's kin-law strategy (research #214)
+  - Anchor: Strategy notes to shape dialogue subtext.
+- RG: Yakshagana prasangas (research #269)
+  - Anchor: Performance structuring of turns and chorus commentary.
+- PS: CE apparatus (research #1–4)
+  - Anchor: Variant on Draupadi's question of lawful loss; highlight CE reading.
+
+Quick synopsis cues:
+- Invitation → obligation → duress sequence; lawful vs unlawful loss contention.
+- Court complicity and silence; insert advisory echoes toward Ch.30.
+
+---
+
+## Chapter 5 — Parshurama's Vision
+
+- PU: Agni Purana — martial pedagogy (research #29)
+  - Anchor: Warrior training methods and martial ethics.
+- IN: Warrior ideals vs Brahmanical ethics (research #219)
+  - Anchor: Tension between kshatriya duty and brahmin ideals.
+- JA: Jain ethics (research #32)
+  - Anchor: Non-violence alternatives and ethical frameworks.
+- TR: Adi/Vana Parva anchors (research #276, #278)
+  - Anchor: Parashurama episodes and pedagogical scenes.
+
+Quick synopsis cues:
+- Prophetic vision of egalitarian training; breaking caste barriers.
+- Martial ethics vs traditional hierarchy; transformative education.
+
+---
+
+## Chapter 6 — A Boy Who Knew Too Much
+
+- IN: Karna suppression motifs (research #61); genealogy debates (research #56)
+  - Anchor: Social exclusion analysis and merit vs birth debates.
+- RG: Folk ballads — Karna generosity/pathos (research #267)
+  - Anchor: Emotional resonance and character development cues.
+- TO: Theses — Karna ethics (research #253)
+  - Anchor: Academic framing of Karna's moral complexity.
+
+Quick synopsis cues:
+- Precocious understanding of social dynamics; suppressed potential.
+- Generosity as compensation for exclusion; early ethical formation.
+
+---
+
+## Chapter 7 — Fire-Born Panchali (Draupadi's Birth)
+
+- TR: Draupadi birth — Adi Parva keys (research #222, #276)
+  - Anchor: Fire-sacrifice narrative; emergence imagery; name and epithet notes.
+- IN: Draupadi cult / Agneya identity (research #54, #211)
+  - Anchor: Agni associations; temple ritual parallels for iconography.
+- RG: Draupadi Amman temples (research #58)
+  - Anchor: Regional motifs to enrich ritual language and setting details.
+- PU: Nalayani/Indrasena prior-birth narratives (research #155)
+  - Anchor: Prior-life causality thread; use sparingly, annotate as ancillary.
+- PH: CE apparatus (research #1–4)
+  - Anchor: Variant phrases around fire rite and twin births (Dhrishtadyumna/Draupadi).
+
+Quick synopsis cues:
+- Vedic rite mechanics; covenantal framing of birth purpose.
+- Agneya traits foreshadowing Chapter 22 agency.
 
 ---
 
@@ -319,6 +357,21 @@ Quick synopsis cues:
 
 ---
 
+## Chapter 18 — The Rejection of Karna
+
+- TR/PH: Karna Parva index (research #283); CE apparatus (research #1–4)
+  - Anchor: Public contest scene; caste inquiry; rejection line variants.
+- IN: Genealogy debates (research #56); suppression motifs (research #61)
+  - Anchor: Analytical frame for social exclusion vs merit ethos.
+- RG: Folk ballads (research #267)
+  - Anchor: Emotional tenor and public reaction cues.
+
+Quick synopsis cues:
+- Contest merit vs lineage barrier; humiliation beats; silent witnesses.
+- Seeds for later reconciliation arcs and ethical commentary.
+
+---
+
 ## Chapter 19 — Lessons Through Friendship
 
 - RG: Yakshagana camaraderie (research #269)
@@ -357,6 +410,23 @@ Quick synopsis cues:
 Quick synopsis cues:
 - Military campaign as test; strategic coordination and ethics.
 - March dynamics and campaign preparation; collective action.
+
+---
+
+## Chapter 22 — Panchali's Stand
+
+- IN: Draupadi agency — cult and temples (research #54, #58, #211)
+  - Anchor: Voice, ritual authority, and moral claim language.
+- RG: Pandavani/Terukkuttu performance (research #267, #268)
+  - Anchor: Stance, gestures, chorus emphasis; pacing of objection and demand.
+- PR: Performance archives — SNA/IGNCA (research #126, #128)
+  - Anchor: Visual motifs; stagecraft references for scene setting.
+- PS/PH: CE apparatus for court legality challenge (research #1–4)
+  - Anchor: Textual locus of Draupadi's questions; variant readings.
+
+Quick synopsis cues:
+- Juridical challenge structure: question → premise → concession trap.
+- Convergence of ritual identity (Agneya) and legal argument.
 
 ---
 
